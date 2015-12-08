@@ -3,4 +3,4 @@ coloredgray-rohit0000 created by Classroom for GitHub
 
 ##Screenshot
 
-![screenshot](Gray.png)
+![screenshot](gray.png)
